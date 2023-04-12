@@ -1,0 +1,30 @@
+C:\Users\Mahammad.Abdullayev\Desktop\P233Lab\CustomMapper\ConsoleApp\bin\Debug\net6.0\ConsoleApp.exe
+C:\Users\Mahammad.Abdullayev\Desktop\P233Lab\CustomMapper\ConsoleApp\bin\Debug\net6.0\ConsoleApp.deps.json
+C:\Users\Mahammad.Abdullayev\Desktop\P233Lab\CustomMapper\ConsoleApp\bin\Debug\net6.0\ConsoleApp.runtimeconfig.json
+C:\Users\Mahammad.Abdullayev\Desktop\P233Lab\CustomMapper\ConsoleApp\bin\Debug\net6.0\ConsoleApp.dll
+C:\Users\Mahammad.Abdullayev\Desktop\P233Lab\CustomMapper\ConsoleApp\bin\Debug\net6.0\ConsoleApp.pdb
+C:\Users\Mahammad.Abdullayev\Desktop\P233Lab\CustomMapper\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Mahammad.Abdullayev\Desktop\P233Lab\CustomMapper\ConsoleApp\obj\Debug\net6.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahammad.Abdullayev\Desktop\P233Lab\CustomMapper\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Mahammad.Abdullayev\Desktop\P233Lab\CustomMapper\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\Mahammad.Abdullayev\Desktop\P233Lab\CustomMapper\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Mahammad.Abdullayev\Desktop\P233Lab\CustomMapper\ConsoleApp\obj\Debug\net6.0\ConsoleApp.dll
+C:\Users\Mahammad.Abdullayev\Desktop\P233Lab\CustomMapper\ConsoleApp\obj\Debug\net6.0\refint\ConsoleApp.dll
+C:\Users\Mahammad.Abdullayev\Desktop\P233Lab\CustomMapper\ConsoleApp\obj\Debug\net6.0\ConsoleApp.pdb
+C:\Users\Mahammad.Abdullayev\Desktop\P233Lab\CustomMapper\ConsoleApp\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\Mahammad.Abdullayev\Desktop\P233Lab\CustomMapper\ConsoleApp\obj\Debug\net6.0\ref\ConsoleApp.dll
+C:\Users\rahilah\Desktop\CustomMapper (1)\CustomMapper\ConsoleApp\bin\Debug\net6.0\ConsoleApp.exe
+C:\Users\rahilah\Desktop\CustomMapper (1)\CustomMapper\ConsoleApp\bin\Debug\net6.0\ConsoleApp.deps.json
+C:\Users\rahilah\Desktop\CustomMapper (1)\CustomMapper\ConsoleApp\bin\Debug\net6.0\ConsoleApp.runtimeconfig.json
+C:\Users\rahilah\Desktop\CustomMapper (1)\CustomMapper\ConsoleApp\bin\Debug\net6.0\ConsoleApp.dll
+C:\Users\rahilah\Desktop\CustomMapper (1)\CustomMapper\ConsoleApp\bin\Debug\net6.0\ConsoleApp.pdb
+C:\Users\rahilah\Desktop\CustomMapper (1)\CustomMapper\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\rahilah\Desktop\CustomMapper (1)\CustomMapper\ConsoleApp\obj\Debug\net6.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rahilah\Desktop\CustomMapper (1)\CustomMapper\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\rahilah\Desktop\CustomMapper (1)\CustomMapper\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\rahilah\Desktop\CustomMapper (1)\CustomMapper\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\rahilah\Desktop\CustomMapper (1)\CustomMapper\ConsoleApp\obj\Debug\net6.0\ConsoleApp.dll
+C:\Users\rahilah\Desktop\CustomMapper (1)\CustomMapper\ConsoleApp\obj\Debug\net6.0\refint\ConsoleApp.dll
+C:\Users\rahilah\Desktop\CustomMapper (1)\CustomMapper\ConsoleApp\obj\Debug\net6.0\ConsoleApp.pdb
+C:\Users\rahilah\Desktop\CustomMapper (1)\CustomMapper\ConsoleApp\obj\Debug\net6.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\rahilah\Desktop\CustomMapper (1)\CustomMapper\ConsoleApp\obj\Debug\net6.0\ref\ConsoleApp.dll
